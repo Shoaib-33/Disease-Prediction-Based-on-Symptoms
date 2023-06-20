@@ -19,9 +19,10 @@ There are total 10 models used for accuracy crosschecking namely:
 - LGBM classifier
 
 ## Project Files
-1.The main project is in the file named "Project_ML.ipynb
-2.All the accuracy comparison is in the file named "Accuracy_crosschecking"
+* The main project is in the file named "Project_ML.ipynb
+* All the accuracy comparison is in the file named "Accuracy_crosschecking"
 
 ## All the pkl files are the saved trained models 
+
 
 
